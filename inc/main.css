@@ -1,0 +1,33 @@
+body{
+    background-image: url(../img/fondo4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+
+}
+
+
+.formulario{
+    background:#D3D6D5;
+    padding:20px;
+    border-radius:10px;
+    box-shadow: 0 0 30px; 
+    color: #000000;
+    
+    
+}
+
+.form-control{
+    background:#ECECEC;
+    border-style: none;
+    transition: 0.5s ease-in;
+}
+
+
+.form-control-placeholder{
+    color:#000000;
+}
+
+
+
+/**Buscador**/
